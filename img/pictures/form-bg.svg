@@ -1,0 +1,19 @@
+<svg width="234" height="323" viewBox="0 0 234 323" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="237.003" cy="237.262" rx="237" ry="237.003" fill="url(#paint0_linear_234_9197)"/>
+<ellipse opacity="0.5" cx="238.003" cy="238.262" rx="207.375" ry="207.377" fill="url(#paint1_linear_234_9197)"/>
+<ellipse opacity="0.5" cx="238.002" cy="238.26" rx="148.125" ry="148.127" fill="url(#paint2_linear_234_9197)"/>
+<defs>
+<linearGradient id="paint0_linear_234_9197" x1="237.003" y1="0.25972" x2="237.003" y2="474.265" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A5DA8E"/>
+<stop offset="1" stop-color="#A5DA8E" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_234_9197" x1="238.003" y1="30.8848" x2="95.2087" y2="293.361" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BDECA9"/>
+<stop offset="1" stop-color="#C8FBB3" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_234_9197" x1="238.002" y1="90.1336" x2="83.9513" y2="315.284" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DAFFCA"/>
+<stop offset="1" stop-color="#DAFFCA" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
